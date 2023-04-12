@@ -1,9 +1,6 @@
 #!/usr/bin/python3
 from selenium import webdriver
 import time
-#from PIL import Image
-#import numpy
-#import os
 import threading
 
 def repeater(url):
@@ -34,14 +31,3 @@ map4.start()
 map5.start()
 map6.start()
 
-
-#time.sleep(2)
-#image = Image.open('map1.png')
-
-#width, height = image.size
-
-#image = numpy.array(image, dtype=numpy.uint8)
-#print(image.shape)
-#image[]
-#print(width, height)
-#os.system("gopen map.png")
