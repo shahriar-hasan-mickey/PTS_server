@@ -1,0 +1,2 @@
+https://realpython.com/python-web-applications/
+see the 4th code snippet of : Test Locally
